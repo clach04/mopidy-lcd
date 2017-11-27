@@ -2,21 +2,6 @@
 Mopidy-LCD
 ****************************
 
-.. image:: https://img.shields.io/pypi/v/Mopidy-LCD.svg?style=flat
-    :target: https://pypi.python.org/pypi/Mopidy-LCD/
-    :alt: Latest PyPI version
-
-.. image:: https://img.shields.io/travis/sheuvi21/mopidy-lcd/master.svg?style=flat
-    :target: https://travis-ci.org/sheuvi21/mopidy-lcd
-    :alt: Travis CI build status
-
-.. image:: https://img.shields.io/coveralls/sheuvi21/mopidy-lcd/master.svg?style=flat
-   :target: https://coveralls.io/r/sheuvi21/mopidy-lcd
-   :alt: Test coverage
-
-Description
-===========
-
 LCD for Mopidy. Based on `this library <https://gist.github.com/DenisFromHR/cc863375a6e19dce359d>`_.
 
 
