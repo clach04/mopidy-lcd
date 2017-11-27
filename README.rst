@@ -14,7 +14,10 @@ Mopidy-LCD
    :target: https://coveralls.io/r/sheuvi21/mopidy-lcd
    :alt: Test coverage
 
- LCD for Mopidy. Based on `this library <https://gist.github.com/DenisFromHR/cc863375a6e19dce359d>`_.
+Description
+===========
+
+LCD for Mopidy. Based on `this library <https://gist.github.com/DenisFromHR/cc863375a6e19dce359d>`_.
 
 
 Installation
