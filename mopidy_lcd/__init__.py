@@ -24,9 +24,8 @@ class Extension(ext.Extension):
 
     def get_config_schema(self):
         schema = super(Extension, self).get_config_schema()
-        # TODO: Comment in and edit, or remove entirely
-        #schema['username'] = config.String()
-        #schema['password'] = config.Secret()
+        schema['display_temperature'] = config.Boolean()
+        schema['bme280_i2c_bus'] = config.Integer()
         return schema
 
     def setup(self, registry):

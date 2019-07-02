@@ -27,6 +27,11 @@ setup(
         'setuptools',
         'Mopidy >= 1.0',
         'Pykka >= 1.1',
+        'smbus >= 1.1',
+        'pimoroni_bme280 >= 0.0.1',
+    ],
+    dependency_links=[
+        'https://github.com/sheuvi21/bme280-python/releases/download/v0.0.1-fixed/pimoroni-bme280-0.0.1.tar.gz#egg=pimoroni_bme280-0.0.1'
     ],
     entry_points={
         'mopidy.ext': [
