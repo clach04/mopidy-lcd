@@ -15,7 +15,7 @@ setup(
     name='Mopidy-LCD',
     version=get_version('mopidy_lcd/__init__.py'),
     url='https://github.com/sheuvi21/mopidy-lcd',
-    license='Apache License, Version 2.0',
+    license='GPLv3',
     author='Evgeniy Shabanov',
     author_email='sheuvi21@gmail.com',
     description='LCD for Mopidy',
@@ -36,7 +36,7 @@ setup(
     classifiers=[
         'Environment :: No Input/Output (Daemon)',
         'Intended Audience :: End Users/Desktop',
-        'License :: OSI Approved :: Apache Software License',
+        'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
         'Operating System :: OS Independent',
         'Programming Language :: Python :: 2',
         'Topic :: Multimedia :: Sound/Audio :: Players',
